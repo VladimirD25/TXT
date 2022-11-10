@@ -1,0 +1,6 @@
+First name - Vladimir,
+Second name - Olegovich,
+Last name - Dobranitsa,
+Age - 35,
+Pets - None,
+Future salary - $400.
