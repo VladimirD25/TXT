@@ -1,0 +1,23 @@
+VladimirDobranitsa@Vladimir MINGW64 /d/github/txt (main)
+$ vim preferences.txt
+
+[[A[C[C[C[C[C[C[C[C[C[C[C[A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CSkills:
+1) Basic theory SDLC, STLC;
+2) Client-server architecture;
+3) HTTP;
+4) What is JSON, XML;
+5) API testing via Postman (JS, API autotests);
+6) Removing and reading logs from an external server;
+7) Sniffing http web traffic via Charles and Fiddler";
+8) Dev Tools of web browsers;
+9) Mobile testing;
+10) Feature iOS, Android, guidelines;
+11) ADB (android device management);
+12) Setting up proxy and vpn on iOS and Android;
+13) Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android;
+14) Command line (terminal) Linux;
+15) Basics of bash scripting, automation of routine tasks on the server;
+16) Access to remote servers;
+17) SQL basics;
+18) Load testing in Jmeter;
+19) Scrum development methodology;
