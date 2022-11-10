@@ -1,1 +1,19 @@
 # TXT
+
+Bug report:
+
+1. id - B1;
+2. Summary - Incomplete digits displaying of the number of items in the cart when entering a three-digit value;
+3. Preconditions - site is opened, 
+                 - any item added to cart, 
+                 - cart is opened;
+                 
+4. Steps to reproduce - 1) enter '99' in the number of units of goods, press 'Enter', 
+                        2) click on '+' button;
+5. Expected result - Full displaying of digits for the number of items in the cart;
+6. Actual result - the digits of the number of items in the cart are not displayed completely;
+7. Severity - minor;
+8. Priority - low;
+9. Environment - windows 10 Chrome 107.0.5304.88;
+10.Attachment - link;
+11.Reporter - Vladimir.
