@@ -1,7 +1,7 @@
 VladimirDobranitsa@Vladimir MINGW64 /d/github/txt (main)
 $ vim preferences.txt
 
-[[A[C[C[C[C[C[C[C[C[C[C[C[A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CSkills:
+Skills:
 1) Basic theory SDLC, STLC;
 2) Client-server architecture;
 3) HTTP;
